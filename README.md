@@ -55,8 +55,7 @@ The project uses statistical data from:
 
 ## Running the Project
 
-Install dependencies:
-pip install django pandas plotly torch torchvision pillow openpyxl opencv-python
+Install dependencies: pip install django pandas plotly torch torchvision pillow openpyxl opencv-python
 
 Run the Django server:
 python manage.py runserver
