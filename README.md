@@ -1,7 +1,6 @@
 # Intelligent Risk Platform
 
-Intelligent web system for risk monitoring and geospatial visualization based on neural network analysis of video data.
-
+Intelligent web system for risk monitoring and geospatial visualization based on neural network analysis of video data. Public safety increasingly relies on intelligent systems that can detect potentially dangerous situations. However, AI systems used in real-world environments must be both accurate and reliable. This project explores how computer vision and geospatial analytics can support risk assessment while highlighting the importance of trustworthy AI predictions.
 ## Project Overview
 
 This project combines computer vision, neural networks and geospatial analytics in a single web platform for monitoring risk situations.
